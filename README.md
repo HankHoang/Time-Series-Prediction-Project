@@ -5,6 +5,6 @@ The dataset records instances of criminal activities in Los Angeles starting in 
 
 *The project is to predict the possible time in which illegal behaviors can happen in the future. Therefore it can support the police department in preparing and preventing criminals in time.*
 
-Experiment EDA with 5000 rows of the dataset showed nearly similar EDA results with the original dataset(690454 observations).
+* Experiment EDA with 5000 rows of the dataset showed nearly similar EDA results with the original dataset(690454 observations).
 
 Link to dataset: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
