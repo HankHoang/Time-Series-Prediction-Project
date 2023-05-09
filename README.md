@@ -10,4 +10,4 @@ The dataset records instances of criminal activities in Los Angeles starting in 
 * The fluctuation range of the number of crimes tends to increase from 2020 to 2022.
 * The massive amount of criminal activities happened in the first couple days of every month (from the 1st to the 3rd of a month), with more than 800 cases. An exception was the day 2020-05-30 with 912 cases.
 
-Link to dataset: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+Link to the dataset: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
