@@ -1,4 +1,4 @@
-# Time-Series-Prediction-Project
+# Time Series Prediction Project
 ## Time Series Prediction on LA Crime Dataset
 
 The dataset records instances of criminal activities in Los Angeles starting in 2020. The information is transcribed from written crime reports, which may contain errors. Some location fields may have missing data and are indicated as (0°, 0°), while address fields only provide approximate information to protect privacy. 
