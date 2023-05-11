@@ -14,5 +14,6 @@ The dataset records instances of criminal activities in Los Angeles starting in 
 
 ## Further Developments:
 * Require more data and information or even studies to build high accuracy in a time series model, such as criminal psychology research to identify attributes causing illegal behaviors.
+* Finding a suitable approach with up-to-date, relevant articles or research.
 
 Link to the dataset: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
